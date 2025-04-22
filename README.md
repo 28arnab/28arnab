@@ -1,19 +1,19 @@
 # Hi there, I'm Arnab! 👋
 
-## About Me
-I'm a passionate developer with interests in web development, machine learning, and open-source contributions. I enjoy solving complex problems and learning new technologies.
+## 👨‍🔬 About Me
+I’m someone who’s genuinely curious about how biology and technology can work together to make a real impact. Right now, I’m pursuing a degree in Biotechnology Engineering, and I’m driven by the idea of building cool, meaningful things that blend science with code. I also love connecting with like-minded people, sharing ideas, and hopefully leading some exciting collaborations along the way.
 
-- 🌱 I’m currently learning Front end
-- 👯 I’m looking to collaborate on Front end projects specially fancy looking websites
-- 🤔 I’m looking for help with sticking to one path
-- 📫 How to reach me: asarkarjr05@gmail.com
+## 📊 GitHub Stats
+![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=28arnab&show_icons=true&theme=gruvbox)
 
-## GitHub Stats
-![Arnab's GitHub stats](https://github-readme-stats.vercel.app/api?username=28arnab&show_icons=true&theme=radical)
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28arnab&layout=compact&theme=gruvbox)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28arnab&layout=compact&theme=radical)
+## 🔗 Connect with Me
+<a href="https://www.linkedin.com/in/28arnab" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/3488/3488311.png" alt="LinkedIn Badge" width="80" style="border-radius: 14px;"/>
+</a>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/28arnab)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=plastic)](https://twitter.com/_28arnab)
+<a href="https://x.com/_28arnab" target="_blank">
+  <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740" alt="Twitter Badge" width="80" style="border-radius: 14px;"/>
+</a>
