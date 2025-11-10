@@ -17,7 +17,7 @@
 
 ---
 
-### ⏱️ My Coding Activity (WakaTime)  
+### ⏱️ My Coding Activity  
 <p align="center">
   <img src="https://wakatime.com/share/@28arnab/5fe01c61-c937-4207-a077-bb7df1824e41.svg" height="400" alt="WakaTime Stats 1"/>
   <img src="https://wakatime.com/share/@28arnab/5a57b5ef-109a-467c-9b98-92405bb69ecb.svg" height="500" alt="WakaTime Stats 2"/>
